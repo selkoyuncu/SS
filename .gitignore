@@ -19,3 +19,6 @@ docs/
 .env.*
 !.env.example
 counter.sol
+src/Counter.sol
+test/Counter.t.sol
+script/Counter.s.sol
